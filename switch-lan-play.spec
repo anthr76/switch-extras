@@ -1,3 +1,4 @@
+%global debug_package %{nil}
 %global commit0 c0c663e3fdc95d6d6e8ab401caa2bfb5b5872e00
 %global commit1 274f2bd3b70847cadd9a3965577a87e666ab9ac3
 %global commit2 183ebc03331c7c92f8eaded42f3d262fbecce37a
