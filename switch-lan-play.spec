@@ -41,4 +41,4 @@ install -p -m 0755 build/src/lan-play %{buildroot}/%{_bindir}/%{name}
 %{_bindir}/%{name}
 
 %changelog
-* Mon Dec 21 2020 Anthony Rabbito <hello@anthonyrabbito.com> - 0.2.3
+* Mon Dec 21 2020 Anthony Rabbito Ver 0.2.3 <hello@anthonyrabbito.com> - 0.2.3
