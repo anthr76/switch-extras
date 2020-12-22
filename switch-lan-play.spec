@@ -5,7 +5,7 @@
 
 Name: switch-lan-play
 Version: v0.2.3
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary: Make you and your friends play games like in a LAN.
 
 License: GNU v3
@@ -38,7 +38,7 @@ install -p -m 0755 build/src/lan-play %{buildroot}/%{_bindir}/%{name}
 
 
 %files
-%license
+%license LICENSE.txt
 %{_bindir}/%{name}
 
 %changelog
